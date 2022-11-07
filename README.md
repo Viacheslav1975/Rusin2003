@@ -1,5 +1,5 @@
 # Rusin2003
-Microsoft Access DB for work small company for 5-10 people.
+The Microsoft Access DB (database) is for work small company for 5-10 people.
 I created this base to work in a paint company in 2000 year. The base functioned perfectly for more than 10 years.
 The database works fine in MS Office 32 bit. The form Redox not working in MS Office 64 bit.
 I am attaching an html file that describes the problem. I have done many tests with different
